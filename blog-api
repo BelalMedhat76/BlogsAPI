@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog",
+      "desc": "WebStorm generated .js files right next to .ts files (because I once enabled the Recompile on changes option)",
+      "author": "John wick",
+      "img": "https://images.pexels.com/photos/11566654/pexels-photo-11566654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "moreDetails": "In full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this bIn full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this b"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog",
+      "desc": "I have written a validation class and want to include it in my VueJS 3 project. Unfortunately I get the following error",
+      "author": "jack",
+      "img": "https://images.pexels.com/photos/3781832/pexels-photo-3781832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "moreDetails": "In full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this bIn full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this b"
+    },
+    {
+      "id": 3,
+      "title": "Third Blog",
+      "desc": "Boy, do I feel foolish. @fzaninotto was 100% correct: this bug had nothing to do with React Admin (at least, for me)..",
+      "author": "danial",
+      "img": "https://images.pexels.com/photos/3775579/pexels-photo-3775579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "moreDetails": "In full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this bIn full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this b"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog",
+      "desc": "do things for a while now. It's further complicated and confusing because it's still possible to import it from react-router  ",
+      "author": "mark",
+      "img": "https://images.pexels.com/photos/3775579/pexels-photo-3775579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "moreDetails": "In full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this bIn full transparency – some of the links on this website are affiliate links, if you use them to make a purchase we will earn a commission at no additional cost for you (none whatsoever!). Will this b"
+    }
+  ]
+}
