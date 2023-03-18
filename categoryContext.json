@@ -1,0 +1,104 @@
+{
+    "categoryContex": [
+        {
+            "id": 1,
+            "data": "Gasoline",
+            "head": "Contex",
+            "productName": "Gasoline Engine Oils",
+            "desc": "5W40 Synthetic motor oil is a high-quality lubricant that incorporates anti-wear protection, as well as protection against sludge and deposit formation. These oils are designed to provide improved oxidation resistance, improved deposit protection, better wear protection, and better low-temperature performance over the life of the oil.",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "title": "ULTRA ACE SAE 5W40 API SN",
+            "package": "4L"
+        },
+        {
+            "id": 2,
+            "data": "Gasoline",
+            "head": "Contex",
+            "title": "ULTRA ACE SAE 10W40 API SN/CF4",
+            "productName": " Gasoline Engine Oils ",
+            "desc": "5W40 Synthetic motor oil is a high-quality lubricant that incorporates anti-wear protection, as well as protection against sludge and deposit formation. These oils are designed to provide improved oxidation resistance, improved deposit protection, better wear protection, and better low-temperature performance over the life of the oil.",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "package": "4L"
+        },
+        {
+            "id": 3,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": "Gasoline Engine Oils  ",
+            "package": "4L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQ1P4.png",
+            "title": "ULTRA ULTRA SAE 15W40 API SL/CF"
+        },
+        {
+            "id": 4,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": " Gasoline Engine Oils  ",
+            "package": "4L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "ULTRA SAE 20W50 API SL,SJ,SG-CF4"
+        },
+        {
+            "id": 5,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Motorcycle and ToKtok, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": " Gasoline Engine Oils  ",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQDuV.png",
+            "title": "MAXXOL 4T  SAE 20W50 API SJ"
+        },
+        {
+            "id": 6,
+            "head": "Contex",
+            "data": "Diesel",
+            "desc": "is a high performance, heavy-duty diesel engine oil is formulated for use in a wide variety of European, Japanese, and North American diesel and petrol engines operating under the most severe service conditions. Designed to provide improved engine protection and increased oil life. It is compatible with low-e-mission engine technology used in road transport, construction, mining, and many other industries.",
+            "package": "20L",
+            "img": "https://imgtr.ee/images/2023/03/17/qT1R7.png",
+            "title": "SUPREME VOLT SAE 15W40 API CI-4/SL",
+            "productName": "Diesel Engine Oils "
+        },
+        {
+            "id": 7,
+            "head": "Contex",
+            "data": "Diesel",
+            "desc": "This motor oil is particularly suitable for fixed diesel engines for power generation of heavy trucks, working in warm climatic conditions.",
+            "productName": "Diesel Engine Oils",
+            "package": "5L,20L",
+            "img": "https://imgtr.ee/images/2023/03/17/qTSbA.png",
+            "title": "SUPREME OVAL SAE 50 CF-4/SG"
+        },
+        {
+            "id": 8,
+            "head": "Contex",
+            "data": "Hydraulic",
+            "desc": "Hydraulic Oil 68 is exceptional quality, top achievement hydraulic oil developed to accommodate the appeal for environmentally acceptable hydraulic fluids. This product is based on synthetic, readily biodegradable esters. A high-performance, carefully selected additive package gives excellent anti-wear and extreme pressure properties as well as good thermal stability and corrosion protection. Inherently strong oxidation resistance anticipates gumming and drop accumulation at top temperatures. Because of the high natural VI of the base fluid and low pour point, the viscosity-temperature behavior allows for a very wide operating temperature range.",
+            "package": "16L",
+            "img": "https://imgtr.ee/images/2023/03/17/qTSbA.png",
+            "title": "ULTRA TECH ISO 68",
+            "productName": "Hydraulic oils"
+        },
+        {
+            "id": 9,
+            "head": "Contex",
+            "data": "Transmission",
+            "desc": "CONTEX Automatic transmission and power steering fluid for use in GM automatic transmissions pre 2005 and in many automatic transmissions where Dexron® (II or III) or Mercon performance is required. It is recommended for transmission systems, hydraulic systems, and power steering units manufactured worldwide requiring performance standards of ATF-III/M type fluids / DEXRON®-III (H), DEXRON®-III, DEXRON®-IIE, Type A Suffix A and MERCON® as well as Allison C-3 and C-4 fluids.",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "PRIME ATF DEXRON III",
+            "productName": "Transmission oils"
+        },
+        {
+            "id": 10,
+            "head": "Contex",
+            "data": "Transmission",
+            "desc": "This is a lubricant for gearboxes and rear axles with conical teeth or screw type. This oil is made with highly refined base oils containing anti-wear additives and an additive to lower the pour point.",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "GEAR OIL SAE 85W140 API GL-5",
+            "productName": "Transmission oils"
+        }
+    ]
+}
